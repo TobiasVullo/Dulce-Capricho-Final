@@ -27,7 +27,7 @@ main {
 
 .header {
   background-color: black;
-  background-image: url(img/Imagenfondotortachat.jpg);
+  background-image: url(/img/imagenfondoheader.png);
   background-size: cover;
   padding: 200px;
 }
